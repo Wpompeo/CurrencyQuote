@@ -4,4 +4,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="ColorDraw_One">#ADFF2F</color>
     <color name="ColorDraw_Two">#008000</color>
+    <color name="ColorTest_One">#6495ED</color>
+    <color name="ColorTest_Two">#0000FF</color>
 </resources>

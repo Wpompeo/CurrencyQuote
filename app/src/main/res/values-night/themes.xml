@@ -2,6 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.CurrencyQuote" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="android:statusBarColor">@color/ColorDraw_Two</item>
+        <item name="colorPrimary">@color/ColorDraw_One</item>
+
     </style>
 </resources>

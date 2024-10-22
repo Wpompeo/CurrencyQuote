@@ -6,7 +6,7 @@
         android:bottomRightRadius="16dp" />
 
     <gradient
-        android:startColor="@color/ColorDraw_Two"
         android:endColor="@color/ColorDraw_One"
-        android:angle="90" />
+        android:startColor="@color/ColorDraw_Two"
+        android:angle="95" />
 </shape>

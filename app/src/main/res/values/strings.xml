@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">CurrencyQuote</string>
+    <string name="title_activity_convert">Convert</string>
+    <string name="title_main_activity">Currency quote</string>
+
+    <string-array name="country_coins">
+        <item>EUR</item> <!--EURO-->
+        <item>USD</item> <!--DÓLAR-->
+        <item>ARS</item> <!--PESO ARG-->
+        <item>BOB</item> <!--BOLIVIANO-->
+        <item>BRL</item> <!--REAL-->
+        <item>CLP</item> <!--PESO CHI-->
+        <item>COP</item> <!--PESO COL-->
+        <item>PYG</item> <!--GUARANI PAR-->
+        <item>PEN</item> <!--SOL NOVO-->
+        <item>UYU</item> <!--PESO URY-->
+        <item>VEF</item> <!--BOLÍVAR VEN-->
+    </string-array>
 </resources>
