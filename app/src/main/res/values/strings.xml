@@ -3,6 +3,7 @@
     <string name="title_activity_convert">Convert</string>
     <string name="title_main_activity">Currency quote</string>
     <string name="ti_one">enter with the value.</string>
+    <string name="text_result">conversion result</string>
 
 
     <string name="euro">EUR</string>
@@ -12,10 +13,10 @@
     <string name="real">BRL</string>
     <string name="peso_chileno">CLP</string>
     <string name="peso_colombiano">COP</string>
-    <string name="guarani">PYG</string>
-    <string name="sol_peruano">PEN</string>
-    <string name="peso_uruguaio">UYU</string>
-    <string name="bolivar_venezuela">VEF</string>
+    <string name="guarani">PYG</string>=
+    <string name="sol_peruano">PEN</string>=
+    <string name="peso_uruguaio">UYU</string>=
+    <string name="bolivar_venezuela">VEF</string>=
 
 
     <string-array name="country_coins">

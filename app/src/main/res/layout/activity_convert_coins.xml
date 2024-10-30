@@ -67,11 +67,14 @@
         app:layout_constraintTop_toTopOf="@+id/spinner_one">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/edt_valueOne"
+            android:id="@+id/edt_valueCoin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/rounded_bg"
             android:hint="@string/ti_one"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="18dp"
             android:inputType="numberDecimal"
             android:maxLength="8" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -81,8 +84,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/ColorDraw_Two"
-        android:textSize="20dp"
-        android:textStyle="bold"
+        android:textSize="22dp"
         app:layout_constraintBottom_toTopOf="@+id/btn_convert"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -96,8 +98,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/ColorDraw_Two"
-        android:textSize="18dp"
+        android:textSize="30dp"
         android:textStyle="bold"
+        android:maxLength="8"
         app:layout_constraintBottom_toTopOf="@+id/btn_convert"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -110,8 +113,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textColor="@color/black"
-        android:textSize="16dp"
-        android:textStyle="bold"
+        android:textSize="24dp"
+
         app:layout_constraintBottom_toTopOf="@+id/btn_convert"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
