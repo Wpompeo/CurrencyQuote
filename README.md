@@ -11,21 +11,19 @@
 <img src="https://github.com/user-attachments/assets/1d8f8942-a758-4129-acb2-1b4cb1f2541d" width=260/>
 
 
-
-## Tecnologias
-Tecnologias Utilizadas 💻:
-▪️ Activity e UI:
-  Para estruturar e gerenciar as telas e suas interações.
-▪️ Room Database: 
-Para o armazenamento local de dados, como históricos de conversão e informações de moedas, o que possibilita o acesso offline.
-✅ViewGroups:
-▪️ LinearLayout e ConstraintLayout:
-  Para organizar a disposição dos elementos de forma flexível e responsiva.
-▪️ Adapter:
-  Para gerenciar e exibir listas dinâmicas, facilitando a navegação e interação com dados de conversão.
-✅Views:
-▪️ ImageView, TextView e EditText:
-  Para uma interface de usuário intuitiva, permitindo fácil entrada de dados e visualização das conversões.
+# Tecnologias Utilizadas 💻:
+ ## Activity e UI:
+  - Para estruturar e gerenciar as telas e suas interações.
+ ## Room Database: 
+  - Para o armazenamento local de dados, como históricos de conversão e informações de moedas, o que possibilita o acesso offline.
+## ViewGroups:
+ - LinearLayout e ConstraintLayout:
+    Para organizar a disposição dos elementos de forma flexível e responsiva.
+ - Adapter:
+    Para gerenciar e exibir listas dinâmicas, facilitando a navegação e interação com dados de conversão.
+## Views:
+ - ImageView, TextView e EditText:
+ - Para uma interface de usuário intuitiva, permitindo fácil entrada de dados e visualização das conversões.
 
 ## License
 ```
